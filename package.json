@@ -1,0 +1,34 @@
+{
+  "name": "ashnode",
+  "version": "1.0.0",
+  "description": "Interview sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutoshtrack/ashnode.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Ashutosh Telang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashutoshtrack/ashnode/issues"
+  },
+  "homepage": "https://github.com/ashutoshtrack/ashnode#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
