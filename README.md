@@ -1,0 +1,2 @@
+# ashnode
+sample node
