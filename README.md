@@ -16,7 +16,9 @@ After cloning
 use once for accessing the other api's which is secured with middleware
 
 
-Following tasks checked 
+Following tasks Carried :- xxxxxx
+
+
 a) Create RESTful API application in NodeJS - [x]
 
 b) The application will have ‘user’ route which will have handling for following methods:  - [x]
